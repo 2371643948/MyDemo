@@ -1,4 +1,4 @@
-package com.example.demo.controller.countDownLatch;
+package com.example.demo.controller.countdownlatch;
 
 import java.util.ArrayList;
 import java.util.Random;

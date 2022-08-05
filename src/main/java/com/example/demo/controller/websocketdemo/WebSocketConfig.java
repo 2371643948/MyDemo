@@ -1,4 +1,4 @@
-package com.example.demo.controller.webSocketDemo;
+package com.example.demo.controller.websocketdemo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

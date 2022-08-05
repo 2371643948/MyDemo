@@ -1,4 +1,4 @@
-package com.example.demo.controller.countDownLatch;
+package com.example.demo.controller.countdownlatch;
 
 import java.util.List;
 import java.util.concurrent.Callable;

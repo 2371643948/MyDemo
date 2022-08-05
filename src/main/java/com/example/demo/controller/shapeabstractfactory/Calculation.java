@@ -1,4 +1,4 @@
-package com.example.demo.controller.shapeAbstractFactory;
+package com.example.demo.controller.shapeabstractfactory;
 
 public interface Calculation {
     Integer area();

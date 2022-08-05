@@ -1,4 +1,4 @@
-package com.example.demo.controller.shapeAbstractFactory;
+package com.example.demo.controller.shapeabstractfactory;
 
 public class Rectangle extends Shape {
     private Integer width;

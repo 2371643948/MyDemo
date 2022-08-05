@@ -1,4 +1,4 @@
-package com.example.demo.controller.orderDelayDemo;
+package com.example.demo.controller.orderdelaydemo;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.annotation.Order;

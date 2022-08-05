@@ -1,4 +1,4 @@
-package com.example.demo.controller.threadLocal;
+package com.example.demo.controller.threadlocal;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;

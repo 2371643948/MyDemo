@@ -1,4 +1,4 @@
-package com.example.demo.controller.orderDelayDemo;
+package com.example.demo.controller.orderdelaydemo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

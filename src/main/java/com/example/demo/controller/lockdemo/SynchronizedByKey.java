@@ -1,4 +1,4 @@
-package com.example.demo.controller.lockDemo;
+package com.example.demo.controller.lockdemo;
 
 import org.springframework.stereotype.Component;
 

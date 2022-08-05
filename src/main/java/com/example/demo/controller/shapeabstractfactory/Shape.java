@@ -1,4 +1,4 @@
-package com.example.demo.controller.shapeAbstractFactory;
+package com.example.demo.controller.shapeabstractfactory;
 
 public abstract class Shape implements Calculation{
     private String color;
