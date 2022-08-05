@@ -50,6 +50,7 @@ pom.xml.versionsBackup
 pom.xml.next
 .mvn/timing.properties
 !.mvn/wrapper/maven-wrapper.jar
+*.jar
 
 ### Node Js ###
 node_modules/*
