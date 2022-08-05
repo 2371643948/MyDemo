@@ -1,4 +1,4 @@
-package com.example.demo.controller.shape;
+package com.example.demo.controller.shapeAbstractFactory;
 
 public class DemoShape {
     public static void main(String[] args) {

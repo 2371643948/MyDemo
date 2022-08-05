@@ -1,4 +1,4 @@
-package com.example.demo.controller.paperDemo;
+package com.example.demo.controller.webSocketDemo;
 
 
 import lombok.extern.slf4j.Slf4j;
